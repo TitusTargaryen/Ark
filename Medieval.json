@@ -4,7 +4,7 @@
             "OpenButton": 1,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/XgIRmjn.png" ,
+            "IconURL": "https://i.imgur.com/IItPa0F.jpg" ,
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 8,
@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Benvenuto su ArkItalia",
-                    "text1": "Vi ricordiamo che l'iscrizione \n\n\nal canale Discord è obbligatoria.",
-                    "imageurl": "https://i.imgur.com/WUAKkcu.jpg"
+                    "title1": "Welcome to Medieval Ark",
+                    "text1": "Please, join to Discord",
+                    "imageurl": "https://i.imgur.com/9rhyBIX.jpg"
                 }
             }
         ],
@@ -27,7 +27,7 @@
             {
                 "link1": {
                     "text": "Discord",
-                    "url": "https://discord.gg/MUyHfUyfeu"
+                    "url": "https://discord.gg/qqREshAgQn"
                 }
             }
         ]
