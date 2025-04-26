@@ -1,35 +1,74 @@
 {
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 1,
-            "HideIcon": false,
-            "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/IItPa0F.jpg" ,
-            "DisableIconText": false,
-            "IconPosition": 0,
-            "IconTextColor": 8,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "Welcome",
-                    "title1": "Welcome to Medieval Ark",
-                    "text1": "Please, join to Discord",
-                    "imageurl": "https://i.imgur.com/9rhyBIX.jpg"
-                }
-            }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Discord",
-                    "url": "https://discord.gg/qqREshAgQn"
-                }
-            }
-        ]
-    }
+ "ServerName":"MedievalArk",
+ "ButtonTxt1":"Welcome",
+ "ButtonTxt2":"Lore",
+ "ButtonTxt3":"How to play",
+ "ButtonTxt4":"",
+ "ButtonTxt5":"",
+ "LinkButtonTxt1":"",
+ "LinkButtonTxt2":"Discord",
+ "LinkButtonTxt3":"",
+ "LinkButtonTxt4":"",
+ "LinkButtonTxt5":"",
+ "LinkButton1":"",
+ "LinkButton2":"https://discord.gg/hzyMrwNTD4",
+ "Link1Button3":"",
+ "Link2Button3":"",
+ "Link3Button3":"",
+ "Link4Button3":"",
+ "Link1Button4":"",
+ "Link2Button4":"",
+ "Link3Button4":"",
+ "Link4Button4":"",
+ "Link1Button5":"",
+ "Link2Button5":"",
+ "Link3Button5":"",
+ "Link4Button5":"",
+ "Tab1Panelcount":1,
+ "Tab2Panelcount":1,
+ "Tab3Panelcount":1,
+ "Tab4Panelcount":0,
+ "Tab5Panelcount":0,
+ "BackgroundTab1":"https://i.imgur.com/250FY57.jpg",
+ "BackgroundTab2":"https://i.imgur.com/250FY57.jpg",
+ "BackgroundTab3":"https://i.imgur.com/250FY57.jpg",
+ "BackgroundTab4":"",
+ "BackgroundTab5":"",
+ "Background3Color":"",
+ "FontColorButtons":"",
+ "FontColorServerName":"",
+ "FontColorTabTitles":"",
+ "FontColorTabText":"",
+ "UseSteamBrowserLink1":true,
+ "UseSteamBrowserLink2":false,
+ "Tab1Title1":"Welcome",
+ "Tab1Title2":"",
+ "Tab1Title3":"",
+ "Tab2Title1":"Lore",
+ "Tab2Title2":"",
+ "Tab2Title3":"",
+ "Tab3Title1":"How to play",
+ "Tab3Title2":"",
+ "Tab3Title3":"",
+ "Tab4Title1":"",
+ "Tab4Title2":"",
+ "Tab4Title3":"",
+ "Tab5Title1":"",
+ "Tab5Title2":"",
+ "Tab5Title3":"",
+ "Tab1Text1":"Welcome to Medieval Ark!\n\nPrepare to survive, thrive, and forge your legend across three powerful lands.\nJoin our Discord for full server info: https://discord.gg/hzyMrwNTD4",
+ "Tab1Text2":"",
+ "Tab1Text3":"",
+ "Tab2Text1":"In a forgotten age, the gods infused the essence of creation into nature's beasts: ancient dragons, mythical creatures, and mighty tribes.\n\nAmissa shelters the peaceful. Astraeos and Svartalfheim are lands of brutal wars and ancient secrets.\n\nWill you embrace peace... or carve your name into blood and legend?",
+ "Tab2Text2":"",
+ "Tab2Text3":"",
+ "Tab3Text1":"Create your survivor, forge alliances, and tame mythical beasts.\n\nNo modern technology allowed: survive using your strength, steel, and wisdom.\n\nHidden across the lands lie ancient Guardians. Only by defeating them will you unlock the lost relics of a forgotten civilization, granting you access to unimaginable powers.\n\nJoin our Discord for crafting rules, maps, and events: https://discord.gg/hzyMrwNTD4",
+ "Tab3Text2":"",
+ "Tab3Text3":"",
+ "Tab4Text1":"",
+ "Tab4Text2":"",
+ "Tab4Text3":"",
+ "Tab5Text1":"",
+ "Tab5Text2":"",
+ "Tab5Text3":""
 }
